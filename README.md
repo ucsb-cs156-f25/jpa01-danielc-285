@@ -1,6 +1,8 @@
 # jpa01-danielc-285
 
-Deployed at: https://danielc-285.dokku-14.cs.ucsb.edu
+https://jpa01-danielc-285.dokku-14.cs.ucsb.edu
+
+Deployed at: https://jpa01-danielc-285.dokku-14.cs.ucsb.edu
 
 
 # About this repo
